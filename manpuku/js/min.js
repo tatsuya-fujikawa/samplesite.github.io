@@ -2,7 +2,7 @@ $(function(){
     'use strict';
 
 $('.landing').bgSwitcher({
-    images:['/manpuku/img/スライダー１.jpg','/manpuku/img/スライダー２.jpg','/manpuku/img/スライダー３.jpg','/manpuku/img/スライダー４.jpg','/manpuku/img/スライダー５.jpg'],
+    images:['/samplesite.github.io/manpuku/img/スライダー１.jpg','/samplesite.github.io/manpuku/img/スライダー２.jpg','/samplesite.github.io/manpuku/img/スライダー３.jpg','/samplesite.github.io/manpuku/img/スライダー４.jpg','/samplesite.github.io/manpuku/img/スライダー５.jpg'],
     interval: 3500,
     effect: "fade",
     duration: 1800,
