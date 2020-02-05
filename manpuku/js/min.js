@@ -2,7 +2,7 @@ $(function(){
     'use strict';
 
 $('.landing').bgSwitcher({
-    images:['../img/スライダー１.jpg','../img/スライダー２.jpg','../img/スライダー３.jpg','../img/スライダー４.jpg','../img/スライダー５.jpg'],
+    images:['/manpuku/img/スライダー１.jpg','/manpuku/img/スライダー２.jpg','/manpuku/img/スライダー３.jpg','/manpuku/img/スライダー４.jpg','/manpuku/img/スライダー５.jpg'],
     interval: 3500,
     effect: "fade",
     duration: 1800,
