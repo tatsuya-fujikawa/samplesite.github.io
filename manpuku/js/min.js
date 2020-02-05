@@ -1,14 +1,14 @@
 $(function(){
     'use strict';
 
-$('.landing').bgSwitcher({
-    images:['/samplesite.github.io/manpuku/img/スライダー１.jpg','/samplesite.github.io/manpuku/img/スライダー２.jpg','/samplesite.github.io/manpuku/img/スライダー３.jpg','/samplesite.github.io/manpuku/img/スライダー４.jpg','/samplesite.github.io/manpuku/img/スライダー５.jpg'],
-    interval: 3500,
-    effect: "fade",
-    duration: 1800,
-    easing: "swing",
+// $('.landing').bgSwitcher({
+//     images:['../img/スライダー１.jpg','../スライダー２.jpg','../img/スライダー３.jpg','../img/スライダー４.jpg','../img/スライダー５.jpg'],
+//     interval: 3500,
+//     effect: "fade",
+//     duration: 1800,
+//     easing: "swing",
     
-});
+// });
 
    
 var pagetop = $('#page_top');
