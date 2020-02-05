@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 576px) {
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}    
+
+.menu__box {
+    width: 100%;
+    margin-bottom: 40px;
+}
+.menu__box-lead {
+    margin-top: 20px;
+}
+
+
+.access__table {
+    font-size: 1rem;
+    padding: 10px;
+    width: 100%;
+}
+
+input[type="text"],input[type="tel"],
+textarea {
+    width: 100%;
+}
+
+.btn {
+    width: 100%;
+}
+
+.footer__wrapper {
+    flex-wrap: wrap;
+}
+
+.footer__logo {
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.footer__address {
+    display:none;
+}
+
+#page_top {
+    bottom: 50px;
+    right: 30px;
+}
+
+
+}
